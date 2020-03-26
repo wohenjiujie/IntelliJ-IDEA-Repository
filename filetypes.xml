@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="xx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
