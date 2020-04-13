@@ -10,10 +10,16 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="QuickImplementations">
