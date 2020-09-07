@@ -25,6 +25,9 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="ViewSource" />
