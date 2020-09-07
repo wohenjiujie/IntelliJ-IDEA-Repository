@@ -22,6 +22,11 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
