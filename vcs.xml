@@ -22,6 +22,14 @@
           <option name="url" value="https://github.com/Yang-wen123/chatroomserver.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.31.12.209:8099/biyi-platform/biyi-plarform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.31.12.209:8099" />
+          <option name="userName" value="xiaomu1079@outlook.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IntelliJIDEAProjects" />
