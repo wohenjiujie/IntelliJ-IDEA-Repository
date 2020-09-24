@@ -22,6 +22,9 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="OverrideMethods">
