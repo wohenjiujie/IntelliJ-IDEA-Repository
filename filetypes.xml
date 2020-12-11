@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="3.md" type="PLAIN_TEXT" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
     </extensionMap>
