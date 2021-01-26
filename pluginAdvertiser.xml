@@ -1329,6 +1329,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pcss">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.postcss" />
+              <option name="myPluginName" value="PostCSS" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pcx">
           <value>
             <plugin>
@@ -2187,6 +2195,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".template-lintrc.js">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".yarnrc">
           <value>
             <plugin>
@@ -2540,6 +2557,16 @@
                   <entry key="EDAS_SERVERLESS_RUN_CONFIGURATION">
                     <value>
                       <FeaturePluginData displayName="SAE on Alibaba Cloud" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
+                  <entry key="EMBER_SERVE_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Ember Serve" pluginName="Ember.js" pluginId="com.emberjs" />
+                    </value>
+                  </entry>
+                  <entry key="EMBER_TEST_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Ember Test" pluginName="Ember.js" pluginId="com.emberjs" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
