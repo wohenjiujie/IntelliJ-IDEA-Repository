@@ -1,7 +1,11 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/IntelliJIDEAProjects/MicroCommunityServer1000" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IntelliJIDEAProjects/QQchat" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IntelliJIDEAProjects/RuoYi-Cloud" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IntelliJIDEAProjects/SpringCloud" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IntelliJIDEAProjects/chat" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IntelliJIDEAProjects/graduation_project" startUpFlag="FIRST" />
   </component>
 </application>
